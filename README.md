@@ -1,1 +1,1 @@
-# PHP_lesson_authorization
+ДЗ Форма регистрации и авторизации на PHP
